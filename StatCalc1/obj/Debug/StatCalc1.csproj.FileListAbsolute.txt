@@ -1,0 +1,9 @@
+C:\Users\student\Downloads\StatCalc1\StatCalc1\bin\Debug\StatCalc1.exe.config
+C:\Users\student\Downloads\StatCalc1\StatCalc1\bin\Debug\StatCalc1.exe
+C:\Users\student\Downloads\StatCalc1\StatCalc1\bin\Debug\StatCalc1.pdb
+C:\Users\student\Downloads\StatCalc1\StatCalc1\obj\Debug\StatCalc1.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\StatCalc1\StatCalc1\obj\Debug\StatCalc1.Form1.resources
+C:\Users\student\Downloads\StatCalc1\StatCalc1\obj\Debug\StatCalc1.Properties.Resources.resources
+C:\Users\student\Downloads\StatCalc1\StatCalc1\obj\Debug\StatCalc1.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\StatCalc1\StatCalc1\obj\Debug\StatCalc1.exe
+C:\Users\student\Downloads\StatCalc1\StatCalc1\obj\Debug\StatCalc1.pdb
